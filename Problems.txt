@@ -1,0 +1,37 @@
+boot enchantments: which one
+jungle enchantments: which one
+mejai's soulstealer: depending on stacks
+essence reaver: cdr increase with crit
+guinsoo's rageblade: stacks
+Jaurim's Fist: stacks
+rabadon's deathcap/ wooglet's: when does passive apply
+sanguine blade: Do I really want to deal with this?
+Seeker's armguard: stacks
+Sterak's Gage: Sterak's Fury
+Tear, Manamune, Archangel's: Deal with mana
+Youmuu's Ghostblade: active
+athene's unholy grail/chalice/mikael's passive
+
+Warmog's armor, take away the bonus health depending on 
+how I code it. Also the Warmog's heart passive
+
+zhonya's from armguard, take away that bonus armor
+depending on how i code it
+
+aegis does grant yourself the aura? Yes
+
+Garen's passive in combat and out of it
+Garen's w passive
+(other champions, but I can't think of now)
+
+33 quints: tier 3
+24 seals
+22 glyphs
+19 marks
+design choice: buttons
+note: the whole rune page doesn't have to be filled
+
+existing rune pages:
+take in name
+go through all runes
+increment if repeat runes
